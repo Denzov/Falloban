@@ -1,0 +1,10 @@
+json format
+
+1. NxM cells 
+2. player spawn : [x, y]
+3. cell data: [
+    [[x, y], block type]
+]
+4. entity data: [
+    [[x, y], entity type]
+]

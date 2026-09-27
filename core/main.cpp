@@ -1,5 +1,6 @@
-#include <iostream>
+#include "GameSystem/GameSystem.h"
 
 int main(){
-    std::cout << "Helo, World!";
+    GameSystem game;
+    game.Run();
 }
